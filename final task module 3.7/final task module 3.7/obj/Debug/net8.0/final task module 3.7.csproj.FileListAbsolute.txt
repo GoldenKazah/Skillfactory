@@ -1,0 +1,15 @@
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\bin\Debug\net8.0\final task module 3.7.exe
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\bin\Debug\net8.0\final task module 3.7.deps.json
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\bin\Debug\net8.0\final task module 3.7.runtimeconfig.json
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\bin\Debug\net8.0\final task module 3.7.dll
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\bin\Debug\net8.0\final task module 3.7.pdb
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.AssemblyInfoInputs.cache
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.AssemblyInfo.cs
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.csproj.CoreCompileInputs.cache
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.sourcelink.json
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.dll
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\refint\final task module 3.7.dll
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.pdb
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\final task module 3.7.genruntimeconfig.cache
+C:\projects\skillfactory\final task module 3.7\final task module 3.7\obj\Debug\net8.0\ref\final task module 3.7.dll
