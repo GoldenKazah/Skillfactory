@@ -1,0 +1,15 @@
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\bin\Debug\net8.0\task 3 3 2.exe
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\bin\Debug\net8.0\task 3 3 2.deps.json
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\bin\Debug\net8.0\task 3 3 2.runtimeconfig.json
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\bin\Debug\net8.0\task 3 3 2.dll
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\bin\Debug\net8.0\task 3 3 2.pdb
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.AssemblyInfoInputs.cache
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.AssemblyInfo.cs
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.csproj.CoreCompileInputs.cache
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.sourcelink.json
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.dll
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\refint\task 3 3 2.dll
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.pdb
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\task 3 3 2.genruntimeconfig.cache
+C:\projects\skillfactory\task 3 3 2\task 3 3 2\obj\Debug\net8.0\ref\task 3 3 2.dll
