@@ -1,0 +1,15 @@
+C:\projects\skillfactory\module4\module4\bin\Debug\net8.0\module4.exe
+C:\projects\skillfactory\module4\module4\bin\Debug\net8.0\module4.deps.json
+C:\projects\skillfactory\module4\module4\bin\Debug\net8.0\module4.runtimeconfig.json
+C:\projects\skillfactory\module4\module4\bin\Debug\net8.0\module4.dll
+C:\projects\skillfactory\module4\module4\bin\Debug\net8.0\module4.pdb
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.AssemblyInfoInputs.cache
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.AssemblyInfo.cs
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.csproj.CoreCompileInputs.cache
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.sourcelink.json
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.dll
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\refint\module4.dll
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.pdb
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\module4.genruntimeconfig.cache
+C:\projects\skillfactory\module4\module4\obj\Debug\net8.0\ref\module4.dll
