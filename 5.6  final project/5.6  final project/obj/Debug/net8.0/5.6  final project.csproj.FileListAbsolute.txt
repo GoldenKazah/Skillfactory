@@ -1,0 +1,15 @@
+C:\projects\skillfactory\5.6  final project\5.6  final project\bin\Debug\net8.0\5.6  final project.exe
+C:\projects\skillfactory\5.6  final project\5.6  final project\bin\Debug\net8.0\5.6  final project.deps.json
+C:\projects\skillfactory\5.6  final project\5.6  final project\bin\Debug\net8.0\5.6  final project.runtimeconfig.json
+C:\projects\skillfactory\5.6  final project\5.6  final project\bin\Debug\net8.0\5.6  final project.dll
+C:\projects\skillfactory\5.6  final project\5.6  final project\bin\Debug\net8.0\5.6  final project.pdb
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.AssemblyInfoInputs.cache
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.AssemblyInfo.cs
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.csproj.CoreCompileInputs.cache
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.sourcelink.json
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.dll
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\refint\5.6  final project.dll
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.pdb
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\5.6  final project.genruntimeconfig.cache
+C:\projects\skillfactory\5.6  final project\5.6  final project\obj\Debug\net8.0\ref\5.6  final project.dll

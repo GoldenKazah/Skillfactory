@@ -1,0 +1,15 @@
+C:\projects\skillfactory\практика\практика\bin\Debug\net8.0\практика.exe
+C:\projects\skillfactory\практика\практика\bin\Debug\net8.0\практика.deps.json
+C:\projects\skillfactory\практика\практика\bin\Debug\net8.0\практика.runtimeconfig.json
+C:\projects\skillfactory\практика\практика\bin\Debug\net8.0\практика.dll
+C:\projects\skillfactory\практика\практика\bin\Debug\net8.0\практика.pdb
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.AssemblyInfoInputs.cache
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.AssemblyInfo.cs
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.csproj.CoreCompileInputs.cache
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.sourcelink.json
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.dll
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\refint\практика.dll
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.pdb
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\практика.genruntimeconfig.cache
+C:\projects\skillfactory\практика\практика\obj\Debug\net8.0\ref\практика.dll

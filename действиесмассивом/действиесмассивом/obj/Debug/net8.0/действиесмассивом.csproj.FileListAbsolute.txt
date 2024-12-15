@@ -1,0 +1,15 @@
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\bin\Debug\net8.0\действиесмассивом.exe
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\bin\Debug\net8.0\действиесмассивом.deps.json
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\bin\Debug\net8.0\действиесмассивом.runtimeconfig.json
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\bin\Debug\net8.0\действиесмассивом.dll
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\bin\Debug\net8.0\действиесмассивом.pdb
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.AssemblyInfoInputs.cache
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.AssemblyInfo.cs
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.csproj.CoreCompileInputs.cache
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.sourcelink.json
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.dll
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\refint\действиесмассивом.dll
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.pdb
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\действиесмассивом.genruntimeconfig.cache
+C:\projects\skillfactory\действиесмассивом\действиесмассивом\obj\Debug\net8.0\ref\действиесмассивом.dll
